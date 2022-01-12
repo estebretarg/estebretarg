@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estebretarg
 - 👀 I’m interested in data science, networks & environmental sciences
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Responsive Web Desing
 - 💞️ I’m looking to collaborate on meaningful projects or environmental sciences related
 - 📫 How to reach me? Send me a mail to: estebretarg@gmail.com and please take a look on my LinkedIn profile at: https://www.linkedin.com/in/esteban-retana-arg%C3%BCello/
 
